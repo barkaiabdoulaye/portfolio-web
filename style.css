@@ -187,4 +187,22 @@ ul {
 .contact-form button:hover {
     background: #333;
 }
+#skills {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.skills-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.skills-list li {
+    background: #eee;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
 
