@@ -205,4 +205,17 @@ ul {
     padding: 10px 15px;
     border-radius: 20px;
 }
+.btn-cv {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0077b6;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.btn-cv:hover {
+    background-color: #023e8a;
+}
 
